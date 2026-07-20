@@ -1,1 +1,1 @@
-# NTPD
+# updateNTPD
